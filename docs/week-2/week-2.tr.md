@@ -130,7 +130,7 @@ projeniz, biri çevrimdışı olan Yerel olarak adlandırılan ve biri GitHub ve
 Dal
 temelde sizi geliştirmenin ana hattından uzaklaştırırlar, böylece hatayı düzeltebilir veya yeni bir özellik oluşturabilirsiniz ve ardından ana kodu bozmadan tekrar birleştirebilirsiniz.
 
-![bg left:50% h:300px](assets/BRANCHH.png)
+![bg left:50% h:800px](assets/BRANCHH.png)
 
 
 --

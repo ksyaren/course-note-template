@@ -50,7 +50,7 @@ math: katex
 
 <!-- paginate: false -->
 
-## CE103 Algorithms and Programming
+## CE103 Algorithms and Programming 
 
 ### Week-2 (GİtHub)
 
@@ -70,20 +70,24 @@ Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](we
 - Repositories
 - GitHub Terms
 
+
+
 ---
 
 ## **GitHub**
 
 ---
 
-- **Defination of GitHub**
-  GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
 
+
+- **Defination of GitHub**
+GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
 ---
 
 ### 
 
 - ****
+
 
 ![center h:400px](assets/github.png)
 
@@ -92,7 +96,7 @@ Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](we
 ### Repositories
 
 - **Wy is Git repository important?**
-  It maintains a history of all changes made to the code. The changes are stored in a special database called “repository”, also known as “repo”. Two main advantages of using Git at software development: Tracking the changes and updates
+It maintains a history of all changes made to the code. The changes are stored in a special database called “repository”, also known as “repo”. Two main advantages of using Git at software development: Tracking the changes and updates
 
 ![bg right:50% h:400px](assets/github-nedir.png)
 
@@ -101,14 +105,17 @@ Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](we
 ### GitHub Terms
 
 - Commit
-  commit is a change that you bring to your program, it can be adding, removing, modifying code or files from your project.
+commit is a change that you bring to your program, it can be adding, removing, modifying code or files from your project.
 
 - Local and Remote
-  your project will have two independent repos one which is offline is called Local and one which is hosted online on platforms like GitHub or GitLab is Remote
+your project will have two independent repos one which is offline is called Local and one which is hosted online on platforms like GitHub or GitLab is Remote
 
 ![bg left:50% h:400px](assets/gitt.png)
 
 ---
+
+
+
 
 - Pull - pull changes from remote to local
 
@@ -116,14 +123,21 @@ Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](we
 
 - Fetch - only downloads new data but doesn't integrate it to your working project in local
 
----
 
+
+---
 - Branch
-  they basically divert you from the mainline of development, so that you can fix the bug or build a new feature and then merge it back without messing up the main code.
+they basically divert you from the mainline of development, so that you can fix the bug or build a new feature and then merge it back without messing up the main code.
+
+
 
 ![bg left:45% h:800px](assets/branchh.png)
 
+
 ---
+
+
+
 
 **TODO** UPDATE CONTENT FOR YOUR COURSE NOTES
 
